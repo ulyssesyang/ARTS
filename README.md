@@ -10,15 +10,15 @@ This project is just a tracking tool for personal practice on four main area per
 
 - Review: Read and review at least one technial article from top tier websites like Mediums or top geek blogs
 
-- Tips: Write down some tips or summarize any ideas from Study, Projects, Works or Ariticles
+- Tips: Write down some tips or summarize any ideas from Study, Projects, Works or Articles
 
-- Share: Write at least one technical article for sharing what I have learned from this week  
+- Share: Write at least one technical article to share what I have learned during this week  
 
 ## Timeline
 
 ---
 
-***Week1: 2019-04-03***
+***Week1: 2019 April 1st week***
 
 - Algorithm
 
