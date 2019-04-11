@@ -18,14 +18,18 @@ This project is just a tracking tool for personal practice on four main area per
 
 ---
 
-***Week1: 2019 April 1st week***
+***Week1: 2019 April***
 
-- Algorithm
+- Algorithm: [Binary Tree related Algorithm](0-Algorithm/1st-w-alg.md)
 
-- Review
+- Review: [Basics of understanding Chrome’s V8 Engine](1-Review/1st-w-review.md)
 
-- Tips
+- Tips: [When to use Git rebase and when to use Git merge](2-Tips/1st-w-tips.md)
 
-- Share
+- Share: [Common Object operations in Javascript](3-Share/1st-w-share.md)
+
+---
+
+***Week2: 2019 April***
 
 ---
