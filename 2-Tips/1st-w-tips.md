@@ -15,3 +15,5 @@ Another advance benefit when using `Git rebase` is `Git bisect`. `Git bisect` is
 For `Git merge`, since it can merge any branch into target branch. So its usage case is definitely larger. For example, make master branch merge with other new features.
 
 One thing for `Git merge` is DO GIT MERGE ONLY necessary! A lot of developer tends to merge master branches very often. This could be a bad practice, because `Git merge` will create merge commit each and also bring certain unnecessary new features which could break your current working branch.
+
+Last, recommend a good article talking about git best practices in the Linux system: [Rebasing and merging: some git best practices](https://lwn.net/Articles/328436/). Quite interesting to see how such large project handling with git issues.
