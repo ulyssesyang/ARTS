@@ -149,3 +149,7 @@ function cloneObject(obj) {
 
 Note: in my opinion, use popular library to handle deep copy is the most effective way. There is a discussion on this topic in the StackOverFlow: [What is the most efficient way to deep clone an object in JavaScript?
 ](https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript)
+
+For example, `lodash.clonedeep` function, the source code covers some many edge cases, like checking nested property type, etc.
+
+If someone already invents good wheel, then just use it!
