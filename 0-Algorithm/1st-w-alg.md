@@ -15,12 +15,13 @@
  * @return {number[][]}
  */
 var levelOrder = function(root) {
+    // Edge case: empty node
     if(!root) return [];
     var result = [], queue = [];
     queue.push(root);
     while(queue.length){
-        var current_level = [];
-        for(var i=0;i<queue.length;i++){
+        var current_level = [], current_level_size = queue.length;
+        for(var i=0;i<current_level_size;i++){
             var node = queue.shift();
             current_level.push(node.val);
             if(node.left) queue.push(node.left);
