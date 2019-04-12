@@ -22,7 +22,7 @@ This project is just a tracking tool for personal practice on four main area per
 
 - Algorithm: [Binary Tree related Algorithm](0-Algorithm/1st-w-alg.md)
 
-- Review: [Basics of understanding Chrome’s V8 Engine](1-Review/1st-w-review.md)
+- Review: [JavaScript essentials: why you should know how the engine works](1-Review/1st-w-review.md)
 
 - Tips: [When to use Git rebase and when to use Git merge](2-Tips/1st-w-tips.md)
 

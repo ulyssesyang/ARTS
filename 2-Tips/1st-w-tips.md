@@ -1,4 +1,4 @@
-# When to use Git rebase and when to use Git merge
+# Tips: When to use Git rebase and when to use Git merge
 
 Today I saw a article of medium: [git — Rebase vs Merge](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c) suggests this: If the feature branch you are getting changes from is shared with other developers, rebasing is not recommended, because the rebasing process will create inconsistent repositories. For individuals, rebasing makes a lot of sense.
 
