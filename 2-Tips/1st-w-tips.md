@@ -10,6 +10,8 @@ While I think it kind of inaccurate! Git rebase should be based on how complicat
 
 I think if we work on one specific features and want to keep all comment histories clean, then I suggest using `Git rebase`, because git rebase will do all new features line up to exactly how the feature grows. Git rebase make perfectly sense in this case.
 
+Another advance benefit when using `Git rebase` is `Git bisect`. `Git bisect` is used to track regression issues. So having a clean commit history defintely do great help on tracking down specific commit causing regression issues.
+
 For `Git merge`, since it can merge any branch into target branch. So its usage case is definitely larger. For example, make master branch merge with other new features.
 
-Another advance benefit when using `Git rebase` is `Git bisect`. `Git bisect` is used to track regression issues. So having a clean commit history defintely do great help on tracking down specific commit causing regression issues.
+One thing for `Git merge` is DO GIT MERGE ONLY necessary! A lot of developer tends to merge master branches very often. This could be a bad practice, because `Git merge` will create merge commit each and also bring certain unnecessary new features which could break your current working branch.
