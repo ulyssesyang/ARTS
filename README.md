@@ -32,6 +32,12 @@ This project is just a tracking tool for personal practice on four main area per
 
 ***Week2: 2019 April***
 
-TODO
+- Algorithm: [2 Dimension Matrix Algorithm](0-Algorithm/2st-w-alg.md)
+
+- Review: [](1-Review/2st-w-review.md)
+
+- Tips: [](2-Tips/2st-w-tips.md)
+
+- Share: [The Elements of Distributed Architecture](3-Share/2st-w-share.md)
 
 ---
