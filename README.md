@@ -18,26 +18,26 @@ This project is just a tracking tool for personal practice on four main area per
 
 ---
 
-***Week1: 2019 April***
+***2019 April 01-07***
 
-- Algorithm: [Binary Tree related Algorithm](0-Algorithm/1st-w-alg.md)
+- Algorithm: [Binary Tree related Algorithm](0-Algorithm/20190407-alg.md)
 
-- Review: [JavaScript essentials: why you should know how the engine works](1-Review/1st-w-review.md)
+- Review: [JavaScript essentials: why you should know how the engine works](1-Review/20190407-review.md)
 
-- Tips: [When to use Git rebase and when to use Git merge](2-Tips/1st-w-tips.md)
+- Tips: [When to use Git rebase and when to use Git merge](2-Tips/20190407-tips.md)
 
-- Share: [Common Object operations in Javascript](3-Share/1st-w-share.md)
+- Share: [Common Object operations in Javascript](3-Share/20190407-share.md)
 
 ---
 
-***Week2: 2019 April***
+***2019 April 08-14***
 
-- Algorithm: [2 Dimension Matrix Algorithm](0-Algorithm/2st-w-alg.md)
+- Algorithm: [2 Dimension Matrix Algorithm](0-Algorithm/20190414-alg.md)
 
-- Review: [](1-Review/2st-w-review.md)
+- Review: [Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?](1-Review/20190414-review.md)
 
-- Tips: [](2-Tips/2st-w-tips.md)
+- Tips: [docker useful commands & tips](2-Tips/20190414-tips.md)
 
-- Share: [The Elements of Distributed Architecture](3-Share/2st-w-share.md)
+- Share: [The Elements of Distributed Architecture](3-Share/20190414-share.md)
 
 ---
