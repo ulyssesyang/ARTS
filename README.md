@@ -18,7 +18,7 @@ This project is just a tracking tool for personal practice on four main area per
 
 ---
 
-***2019 April 01-07***
+***2019 April01-April07***
 
 - Algorithm: [Binary Tree related Algorithm](0-Algorithm/20190407-alg.md)
 
@@ -30,7 +30,7 @@ This project is just a tracking tool for personal practice on four main area per
 
 ---
 
-***2019 April 08-14***
+***2019 April08-April14***
 
 - Algorithm: [2 Dimension Matrix Algorithm](0-Algorithm/20190414-alg.md)
 
@@ -39,5 +39,29 @@ This project is just a tracking tool for personal practice on four main area per
 - Tips: [docker useful commands & tips](2-Tips/20190414-tips.md)
 
 - Share: [The Elements of Distributed Architecture](3-Share/20190414-share.md)
+
+---
+
+***2019 May20-May26***
+
+- Algorithm: [Find a number is prime or not](0-Algorithm/20190526-alg.md)
+
+- Review: [Understanding CSS Layout And The Block Formatting Context](1-Review/20190526-review.md)
+
+- Tips: [Elasticsearch performance tips](2-Tips/20190526-tips.md)
+
+- Share: [](3-Share/20190526-share.md)
+
+---
+
+***2019 May27-Jun02***
+
+- Algorithm: [](0-Algorithm/20190526-alg.md)
+
+- Review: [](1-Review/20190526-review.md)
+
+- Tips: [](2-Tips/20190526-tips.md)
+
+- Share: [](3-Share/20190526-share.md)
 
 ---
